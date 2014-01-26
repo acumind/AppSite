@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppSite</string>
+    <string name="action_settings">Settings</string>
+    <string name="appsite">AppSite</string>
+    <string-array name="sites">
+        <item >www.google.com</item>
+        <item >www.yahoo.com</item>
+        <item >www.facebook.com</item>
+        <item >www.quora.com</item>
+        <item >www.twitter.com</item>
+        <item >www.android.com</item>
+        <item >www.stackoverflow.com</item>
+        <item >www.coursera.com</item>
+        <item >www.imdb.com</item>
+        <item >www.bookmyshow.com</item>
+        <item >www.wikipedia.org</item>
+    </string-array>
+        <string name="addSiteBtn">Add</string>
+        <string name="siteEditTextHint">Enter site URL you like to add..</string>
+           <string name="splashImageContentDesc">Splash Image </string>
+
+</resources>
